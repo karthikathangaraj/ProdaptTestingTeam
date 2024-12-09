@@ -1,0 +1,22 @@
+div h1{
+    text-align: center;
+    font-size: 30px;
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+} 
+*ex
+{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: lightgray;
+    font-size: 20px;
+    text-align: center;
+}
+div p {
+    margin: 10px;
+    font-size: 18px;
+
+}
